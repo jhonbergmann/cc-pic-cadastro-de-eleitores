@@ -1,8 +1,33 @@
-# FaculdadeCC-Visualg-19.11.2019
+# 📌 Cadastro de Eleitores
 
-A prefeitura de uma cidade desenvolveu um programa para cadastro dos moradores, e cada morador (não é especificada a quantidade) deve informar a sua idade. A prefeitura quer obter no final do cadastro a quantidade de moradores que são eleitores obrigatório, a quantidade de moradores que são eleitores facultativos e quantos moradores não são eleitores, de acordo com a tabela ...
-Não é eleitor Assim, faça um programa em VisualG que receba a idade de cada morador (quantidade indeterminada) e obtenha as quantidades requeridas pela prefeitura.
+## 📋 Descrição
+
+Este projeto consiste em um programa desenvolvido em **VisualG** para cadastrar moradores de uma cidade e classificá-los de acordo com sua elegibilidade para votar com base na idade. A prefeitura deseja obter:
+
+✅ **Quantidade de eleitores obrigatórios** (idade entre 18 e 70 anos).  
+✅ **Quantidade de eleitores facultativos** (idade entre 16 e 17 anos ou acima de 70 anos).  
+✅ **Quantidade de não eleitores** (menores de 16 anos).  
+
+O programa recebe a idade de um número indeterminado de moradores e calcula os totais para cada categoria.
+
+## 🖥️ Exemplo de Saída
 
 <p align="center">
-  <img src="SAIDA ATIVIDADE2.png" alt="print" >
+  <img src="SAIDA.png" alt="Saída do programa" width="70%">
 </p>
+
+## 🚀 Tecnologias Utilizadas
+
+- **VisualG** – Para a implementação do algoritmo.
+
+## 🛠️ Como Executar
+
+1. Abra o **VisualG** no seu computador.
+2. Carregue o arquivo `.alg` do projeto.
+3. Execute o código e insira as idades conforme solicitado.
+4. O programa calculará e exibirá os totais de eleitores obrigatórios, facultativos e não eleitores.
+
+---
+
+📌 **Observação:** Este projeto foi desenvolvido para fins acadêmicos.
+
